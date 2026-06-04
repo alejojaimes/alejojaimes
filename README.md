@@ -1,61 +1,42 @@
-# Alejo Jaimes
+# Alejandro Jaimes 🥭
 
-Data & AI Engineer at GFT Technologies, working remotely from Colombia.
-Five years building data systems and AI products for enterprise clients.
+Data & AI Engineer at GFT Technologies. Five years working on data systems,
+LLM pipelines, and cloud architectures for enterprise clients.
 
-I design data architectures, build agentic workflows with LLMs, and turn
-messy enterprise data into something actually useful. On the side, I teach —
-because explaining something well is how you really know you understand it.
-
----
-
-## Currently
-
-- AI Engineer at GFT Technologies — building AI-first products and agentic systems for enterprise automation
-- Writing about engineering and data at [ajteaches.dev](https://ajteaches.dev)
-- LakeHouse architectures, ETL design patterns, and whatever Python rabbit hole I'm in this week
+I also teach. Not as a side note — teaching is how I make sure I actually
+understand what I'm building. These are some of the things I've put together
+for students and anyone learning from scratch.
 
 ---
 
-## Stack
+### Teaching material
 
-```python
-stack = {
-    "languages":  ["Python", "SQL", "Java", "C"],
-    "cloud":      ["AWS (Step Functions, Lambda, Glue, S3)", "Terraform"],
-    "data":       ["Spark", "DataStage", "Postgres", "Pinecone"],
-    "ai":         ["LLMs", "LangChain", "OpenAI API", "RAG pipelines"],
-    "web":        ["Next.js", "TypeScript", "Tailwind"],
-    "tools":      ["Linux", "Git", "Docker", "Jenkins", "GitHub Actions"],
-}
-```
+**[Parallel & Distributed Computing Fundamentals](https://github.com/alejojaimes/parallel-distributed-computing-fundamentals)**
+From C basics to OpenMP, MPI, CUDA, and Spark. Built for eighth-semester students
+in computer science and systems engineering.
 
----
+**[Pandas for Education](https://github.com/alejojaimes/Pandas-for-Education-Learning-through-Hands-On-Examples)**
+Hands-on examples for learning data manipulation with Pandas.
+Practical over theoretical, always.
 
-## Selected work
-
-| Project | Description |
-|---------|-------------|
-| LakeHouse @ Seguros Alfa | Bronze/Silver/Gold architecture on AWS, 300M+ records, 5 years of historical data |
-| AI Code Review Platform | LLM-powered feedback system for programming challenges |
-| ETL CRM Siebel | Data migration for Banco de Occidente |
-| No-Code Reporting Tool | Backend + OpenAI integration for a CoE data analytics product |
+**[SQL 101 — Mastering](https://github.com/alejojaimes/sql-101-mastering)**
+SQL from the ground up. Structured for people who want to actually understand
+what they're writing, not just copy queries.
 
 ---
 
-## Writing
+### What I work with
 
-Research paper published in Springer:
-[Chapter — Springer, 2024](https://link.springer.com/chapter/10.1007/978-3-032-20900-9_11)
+Data pipelines · LakeHouse architectures · LLMs and agentic systems ·
+AWS (Lambda, Step Functions, Glue, S3) · Spark · Python · SQL · Terraform
+
+---
+
+### Writing
 
 Engineering blog: [ajteaches.dev](https://ajteaches.dev)
+Research — Springer 2024: [link.springer.com/chapter/10.1007/978-3-032-20900-9_11](https://link.springer.com/chapter/10.1007/978-3-032-20900-9_11)
 
 ---
-
-## Contact
 
 [ajteaches.dev](https://ajteaches.dev) · [LinkedIn](https://linkedin.com/in/alejocjaimes31) · [hello@ajteaches.dev](mailto:hello@ajteaches.dev)
-
----
-
-<sub>University of Pamplona · Bucaramanga, Colombia</sub>
